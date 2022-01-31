@@ -32,3 +32,4 @@
     - One of them should include the second replacement developer
 - Mang't should start the req for hiring new talent
 - The OFD should have a going away party/happy hour
+- One last pass of the README.md of their team
